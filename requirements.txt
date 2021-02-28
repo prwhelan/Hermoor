@@ -1,0 +1,4 @@
+boto3
+botocore
+datetime
+python-a2s
